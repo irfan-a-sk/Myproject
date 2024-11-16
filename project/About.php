@@ -27,7 +27,7 @@
         
         </div>
         
-        <p>Image from Freepik</p>
+        <p>hello gajanan</p>
         <button>READ MORE</button>
 
 
